@@ -1,0 +1,19 @@
+{
+	"name": "latex-intellisense",
+	"displayName": "LaTeX Intellisense",
+	"description": "Extensions that offer Intellisense for LaTeX.",
+	"version": "1.0.0",
+	"publisher": "maltehei",
+	"repository": "https://github.com/MalteHei/latex-intellisense",
+	"bugs": "https://github.com/MalteHei/latex-intellisense/issues",
+	"engines": {
+		"vscode": "^1.66.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"maltehei.latex-citations",
+		"maltehei.latex-acronyms"
+	]
+}
