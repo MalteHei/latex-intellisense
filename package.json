@@ -19,6 +19,7 @@
 	],
 	"extensionPack": [
 		"maltehei.latex-citations",
-		"maltehei.latex-acronyms"
+		"maltehei.latex-acronyms",
+		"maltehei.latex-refs"
 	]
 }
