@@ -2,7 +2,7 @@
 	"name": "latex-intellisense",
 	"displayName": "LaTeX Intellisense",
 	"description": "Extensions that offer Intellisense for LaTeX.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "maltehei",
 	"repository": "https://github.com/MalteHei/latex-intellisense",
 	"bugs": "https://github.com/MalteHei/latex-intellisense/issues",
