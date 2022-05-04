@@ -9,6 +9,11 @@
 	"engines": {
 		"vscode": "^1.66.0"
 	},
+	"keywords": [
+		"latex",
+		"intellisense",
+		"code completion"
+	],
 	"categories": [
 		"Extension Packs"
 	],
