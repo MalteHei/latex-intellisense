@@ -6,6 +6,11 @@
 	"publisher": "maltehei",
 	"repository": "https://github.com/MalteHei/latex-intellisense",
 	"bugs": "https://github.com/MalteHei/latex-intellisense/issues",
+	"scripts": {
+		"publish:patch": "vsce publish patch",
+		"publish:minor": "vsce publish minor",
+		"publish:major": "vsce publish major"
+	},
 	"engines": {
 		"vscode": "^1.66.0"
 	},
